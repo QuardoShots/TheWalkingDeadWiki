@@ -1,0 +1,21 @@
+*{
+    color: rgb(255,255,255);
+    border: 1px solid #4b5e4b;
+}
+
+body{
+    background-image: url("https://cdn.sortiraparis.com/images/80/66131/936100-the-walking-dead-destinies-plongez-dans-le-monde-post-apocalyptique-de-la-serie-sur-pc-et-consoles.jpg");
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+p{
+    display: inline-block;
+    background-color: #4b5e4b;
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
